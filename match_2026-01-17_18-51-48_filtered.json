@@ -1,0 +1,773 @@
+{
+  "game": {
+    "gameDuration": 2014,
+    "gameCreation": 1768675878688,
+    "gameEndTimestamp": 1768677922331,
+    "gameMode": "CLASSIC",
+    "gameStartTimestamp": 1768675908602
+  },
+  "virgule": {
+    "bans": [
+      {
+        "championId": 54,
+        "championName": "Malphite"
+      },
+      {
+        "championId": 950,
+        "championName": "950"
+      },
+      {
+        "championId": -1,
+        "championName": "-1"
+      },
+      {
+        "championId": -1,
+        "championName": "-1"
+      },
+      {
+        "championId": 111,
+        "championName": "Nautilus"
+      }
+    ],
+    "baron": 0,
+    "champion": 27,
+    "dragon": 1,
+    "horde": 0,
+    "inhibitor": 0,
+    "riftHerald": 1,
+    "tower": 5,
+    "win": false
+  },
+  "enemy": {
+    "bans": [
+      {
+        "championId": 111,
+        "championName": "Nautilus"
+      },
+      {
+        "championId": 799,
+        "championName": "799"
+      },
+      {
+        "championId": 136,
+        "championName": "AurelionSol"
+      },
+      {
+        "championId": 122,
+        "championName": "Darius"
+      },
+      {
+        "championId": 131,
+        "championName": "Diana"
+      }
+    ],
+    "baron": 2,
+    "champion": 41,
+    "dragon": 3,
+    "horde": 3,
+    "inhibitor": 1,
+    "riftHerald": 0,
+    "tower": 8,
+    "win": true
+  },
+  "matise": {
+    "teamPosition": "TOP",
+    "Champion": {
+      "champExperience": 16283,
+      "champLevel": 16,
+      "championName": "LeeSin"
+    },
+    "Damage": {
+      "damageDealtToBuildings": 11325,
+      "damageDealtToEpicMonsters": 0,
+      "magicDamageDealtToChampions": 5438,
+      "magicDamageTaken": 17366,
+      "physicalDamageDealtToChampions": 16940,
+      "physicalDamageTaken": 18917,
+      "totalDamageDealtToChampions": 22408,
+      "totalDamageTaken": 37148,
+      "trueDamageDealtToChampions": 29
+    },
+    "Ping": {
+      "dangerPings": 0,
+      "enemyMissingPings": 1,
+      "enemyVisionPings": 1,
+      "getBackPings": 1,
+      "holdPings": 0,
+      "needVisionPings": 0,
+      "onMyWayPings": 0,
+      "pushPings": 0,
+      "retreatPings": 0,
+      "visionClearedPings": 0,
+      "allInPings": 0,
+      "assistMePings": 0,
+      "basicPings": 0
+    },
+    "KDA": {
+      "deaths": 7,
+      "kills": 5,
+      "pentaKills": 0,
+      "largestMultiKill": 1,
+      "quadraKills": 0,
+      "assists": 5
+    },
+    "First": {
+      "firstBloodKill": false,
+      "firstBloodAssist": false,
+      "firstTowerKill": false,
+      "firstTowerAssist": false
+    },
+    "Stat game": {
+      "goldEarned": 13821,
+      "itemsPurchased": 28,
+      "totalAllyJungleMinionsKilled": 0,
+      "totalEnemyJungleMinionsKilled": 0,
+      "totalTimeSpentDead": 316,
+      "turretTakedowns": 3,
+      "wardsPlaced": 16,
+      "wardsKilled": 0,
+      "visionWardsBoughtInGame": 2,
+      "visionScore": 26
+    },
+    "Spell": {
+      "spell1Casts": 122,
+      "spell2Casts": 131,
+      "spell3Casts": 116,
+      "spell4Casts": 10,
+      "summoner1Casts": 2,
+      "summoner1Id": 4,
+      "summoner2Casts": 4,
+      "summoner2Id": 12
+    }
+  },
+  "ZeyKoo": {
+    "teamPosition": "JUNGLE",
+    "Champion": {
+      "champExperience": 14703,
+      "champLevel": 16,
+      "championName": "Khazix"
+    },
+    "Damage": {
+      "damageDealtToBuildings": 0,
+      "damageDealtToEpicMonsters": 24866,
+      "magicDamageDealtToChampions": 741,
+      "magicDamageTaken": 18688,
+      "physicalDamageDealtToChampions": 12004,
+      "physicalDamageTaken": 14735,
+      "totalDamageDealtToChampions": 13462,
+      "totalDamageTaken": 33840,
+      "trueDamageDealtToChampions": 716
+    },
+    "Ping": {
+      "dangerPings": 0,
+      "enemyMissingPings": 1,
+      "enemyVisionPings": 0,
+      "getBackPings": 0,
+      "holdPings": 0,
+      "needVisionPings": 0,
+      "onMyWayPings": 2,
+      "pushPings": 0,
+      "retreatPings": 0,
+      "visionClearedPings": 0,
+      "allInPings": 0,
+      "assistMePings": 0,
+      "basicPings": 0
+    },
+    "KDA": {
+      "deaths": 10,
+      "kills": 2,
+      "pentaKills": 0,
+      "largestMultiKill": 1,
+      "quadraKills": 0,
+      "assists": 4
+    },
+    "First": {
+      "firstBloodKill": false,
+      "firstBloodAssist": false,
+      "firstTowerKill": false,
+      "firstTowerAssist": false
+    },
+    "Stat game": {
+      "goldEarned": 10323,
+      "itemsPurchased": 27,
+      "totalAllyJungleMinionsKilled": 131,
+      "totalEnemyJungleMinionsKilled": 14,
+      "totalTimeSpentDead": 333,
+      "turretTakedowns": 1,
+      "wardsPlaced": 5,
+      "wardsKilled": 8,
+      "visionWardsBoughtInGame": 4,
+      "visionScore": 35
+    },
+    "Spell": {
+      "spell1Casts": 163,
+      "spell2Casts": 86,
+      "spell3Casts": 25,
+      "spell4Casts": 11,
+      "summoner1Casts": 2,
+      "summoner1Id": 4,
+      "summoner2Casts": 12,
+      "summoner2Id": 11
+    }
+  },
+  "Sabri": {
+    "teamPosition": "MIDDLE",
+    "Champion": {
+      "champExperience": 13920,
+      "champLevel": 15,
+      "championName": "Ahri"
+    },
+    "Damage": {
+      "damageDealtToBuildings": 653,
+      "damageDealtToEpicMonsters": 731,
+      "magicDamageDealtToChampions": 11399,
+      "magicDamageTaken": 12866,
+      "physicalDamageDealtToChampions": 1037,
+      "physicalDamageTaken": 8709,
+      "totalDamageDealtToChampions": 16546,
+      "totalDamageTaken": 22085,
+      "trueDamageDealtToChampions": 4109
+    },
+    "Ping": {
+      "dangerPings": 0,
+      "enemyMissingPings": 6,
+      "enemyVisionPings": 2,
+      "getBackPings": 0,
+      "holdPings": 0,
+      "needVisionPings": 0,
+      "onMyWayPings": 11,
+      "pushPings": 0,
+      "retreatPings": 0,
+      "visionClearedPings": 0,
+      "allInPings": 0,
+      "assistMePings": 0,
+      "basicPings": 0
+    },
+    "KDA": {
+      "deaths": 7,
+      "kills": 1,
+      "pentaKills": 0,
+      "largestMultiKill": 1,
+      "quadraKills": 0,
+      "assists": 7
+    },
+    "First": {
+      "firstBloodKill": false,
+      "firstBloodAssist": false,
+      "firstTowerKill": false,
+      "firstTowerAssist": false
+    },
+    "Stat game": {
+      "goldEarned": 9822,
+      "itemsPurchased": 22,
+      "totalAllyJungleMinionsKilled": 0,
+      "totalEnemyJungleMinionsKilled": 1,
+      "totalTimeSpentDead": 240,
+      "turretTakedowns": 0,
+      "wardsPlaced": 17,
+      "wardsKilled": 4,
+      "visionWardsBoughtInGame": 8,
+      "visionScore": 38
+    },
+    "Spell": {
+      "spell1Casts": 102,
+      "spell2Casts": 105,
+      "spell3Casts": 24,
+      "spell4Casts": 27,
+      "summoner1Casts": 3,
+      "summoner1Id": 4,
+      "summoner2Casts": 3,
+      "summoner2Id": 12
+    }
+  },
+  "Ersees": {
+    "teamPosition": "BOTTOM",
+    "Champion": {
+      "champExperience": 15710,
+      "champLevel": 16,
+      "championName": "Xayah"
+    },
+    "Damage": {
+      "damageDealtToBuildings": 10275,
+      "damageDealtToEpicMonsters": 0,
+      "magicDamageDealtToChampions": 0,
+      "magicDamageTaken": 17812,
+      "physicalDamageDealtToChampions": 57908,
+      "physicalDamageTaken": 18063,
+      "totalDamageDealtToChampions": 58591,
+      "totalDamageTaken": 36516,
+      "trueDamageDealtToChampions": 683
+    },
+    "Ping": {
+      "dangerPings": 0,
+      "enemyMissingPings": 2,
+      "enemyVisionPings": 0,
+      "getBackPings": 0,
+      "holdPings": 0,
+      "needVisionPings": 0,
+      "onMyWayPings": 0,
+      "pushPings": 0,
+      "retreatPings": 2,
+      "visionClearedPings": 0,
+      "allInPings": 0,
+      "assistMePings": 2,
+      "basicPings": 0
+    },
+    "KDA": {
+      "deaths": 9,
+      "kills": 16,
+      "pentaKills": 0,
+      "largestMultiKill": 3,
+      "quadraKills": 0,
+      "assists": 6
+    },
+    "First": {
+      "firstBloodKill": false,
+      "firstBloodAssist": false,
+      "firstTowerKill": true,
+      "firstTowerAssist": false
+    },
+    "Stat game": {
+      "goldEarned": 19399,
+      "itemsPurchased": 26,
+      "totalAllyJungleMinionsKilled": 0,
+      "totalEnemyJungleMinionsKilled": 0,
+      "totalTimeSpentDead": 294,
+      "turretTakedowns": 2,
+      "wardsPlaced": 4,
+      "wardsKilled": 4,
+      "visionWardsBoughtInGame": 0,
+      "visionScore": 13
+    },
+    "Spell": {
+      "spell1Casts": 87,
+      "spell2Casts": 47,
+      "spell3Casts": 69,
+      "spell4Casts": 7,
+      "summoner1Casts": 5,
+      "summoner1Id": 21,
+      "summoner2Casts": 5,
+      "summoner2Id": 4
+    }
+  },
+  "nathboy": {
+    "teamPosition": "UTILITY",
+    "Champion": {
+      "champExperience": 11181,
+      "champLevel": 13,
+      "championName": "Rakan"
+    },
+    "Damage": {
+      "damageDealtToBuildings": 2682,
+      "damageDealtToEpicMonsters": 46,
+      "magicDamageDealtToChampions": 6517,
+      "magicDamageTaken": 19079,
+      "physicalDamageDealtToChampions": 1724,
+      "physicalDamageTaken": 16141,
+      "totalDamageDealtToChampions": 9964,
+      "totalDamageTaken": 35926,
+      "trueDamageDealtToChampions": 1721
+    },
+    "Ping": {
+      "dangerPings": 0,
+      "enemyMissingPings": 1,
+      "enemyVisionPings": 0,
+      "getBackPings": 0,
+      "holdPings": 0,
+      "needVisionPings": 0,
+      "onMyWayPings": 0,
+      "pushPings": 0,
+      "retreatPings": 0,
+      "visionClearedPings": 0,
+      "allInPings": 0,
+      "assistMePings": 0,
+      "basicPings": 0
+    },
+    "KDA": {
+      "deaths": 8,
+      "kills": 3,
+      "pentaKills": 0,
+      "largestMultiKill": 1,
+      "quadraKills": 0,
+      "assists": 20
+    },
+    "First": {
+      "firstBloodKill": false,
+      "firstBloodAssist": false,
+      "firstTowerKill": false,
+      "firstTowerAssist": true
+    },
+    "Stat game": {
+      "goldEarned": 10426,
+      "itemsPurchased": 30,
+      "totalAllyJungleMinionsKilled": 0,
+      "totalEnemyJungleMinionsKilled": 0,
+      "totalTimeSpentDead": 194,
+      "turretTakedowns": 2,
+      "wardsPlaced": 44,
+      "wardsKilled": 18,
+      "visionWardsBoughtInGame": 6,
+      "visionScore": 128
+    },
+    "Spell": {
+      "spell1Casts": 74,
+      "spell2Casts": 49,
+      "spell3Casts": 64,
+      "spell4Casts": 11,
+      "summoner1Casts": 12,
+      "summoner1Id": 7,
+      "summoner2Casts": 9,
+      "summoner2Id": 4
+    }
+  },
+  "Siller": {
+    "teamPosition": "TOP",
+    "Champion": {
+      "champExperience": 19613,
+      "champLevel": 18,
+      "championName": "Shen"
+    },
+    "Damage": {
+      "damageDealtToBuildings": 5350,
+      "damageDealtToEpicMonsters": 2702,
+      "magicDamageDealtToChampions": 8914,
+      "magicDamageTaken": 7683,
+      "physicalDamageDealtToChampions": 8714,
+      "physicalDamageTaken": 27382,
+      "totalDamageDealtToChampions": 18455,
+      "totalDamageTaken": 36848,
+      "trueDamageDealtToChampions": 825
+    },
+    "Ping": {
+      "dangerPings": 0,
+      "enemyMissingPings": 1,
+      "enemyVisionPings": 0,
+      "getBackPings": 0,
+      "holdPings": 0,
+      "needVisionPings": 0,
+      "onMyWayPings": 2,
+      "pushPings": 0,
+      "retreatPings": 1,
+      "visionClearedPings": 0,
+      "allInPings": 0,
+      "assistMePings": 0,
+      "basicPings": 0
+    },
+    "KDA": {
+      "deaths": 5,
+      "kills": 1,
+      "pentaKills": 0,
+      "largestMultiKill": 1,
+      "quadraKills": 0,
+      "assists": 17
+    },
+    "First": {
+      "firstBloodKill": false,
+      "firstBloodAssist": false,
+      "firstTowerKill": false,
+      "firstTowerAssist": false
+    },
+    "Stat game": {
+      "goldEarned": 10872,
+      "itemsPurchased": 21,
+      "totalAllyJungleMinionsKilled": 0,
+      "totalEnemyJungleMinionsKilled": 0,
+      "totalTimeSpentDead": 206,
+      "turretTakedowns": 5,
+      "wardsPlaced": 8,
+      "wardsKilled": 1,
+      "visionWardsBoughtInGame": 0,
+      "visionScore": 17
+    },
+    "Spell": {
+      "spell1Casts": 183,
+      "spell2Casts": 21,
+      "spell3Casts": 38,
+      "spell4Casts": 8,
+      "summoner1Casts": 7,
+      "summoner1Id": 3,
+      "summoner2Casts": 4,
+      "summoner2Id": 4
+    }
+  },
+  "godzay": {
+    "teamPosition": "JUNGLE",
+    "Champion": {
+      "champExperience": 19797,
+      "champLevel": 18,
+      "championName": "Nunu"
+    },
+    "Damage": {
+      "damageDealtToBuildings": 318,
+      "damageDealtToEpicMonsters": 51692,
+      "magicDamageDealtToChampions": 20407,
+      "magicDamageTaken": 7370,
+      "physicalDamageDealtToChampions": 1998,
+      "physicalDamageTaken": 33218,
+      "totalDamageDealtToChampions": 22838,
+      "totalDamageTaken": 43024,
+      "trueDamageDealtToChampions": 432
+    },
+    "Ping": {
+      "dangerPings": 0,
+      "enemyMissingPings": 1,
+      "enemyVisionPings": 1,
+      "getBackPings": 0,
+      "holdPings": 0,
+      "needVisionPings": 0,
+      "onMyWayPings": 1,
+      "pushPings": 0,
+      "retreatPings": 0,
+      "visionClearedPings": 0,
+      "allInPings": 0,
+      "assistMePings": 0,
+      "basicPings": 0
+    },
+    "KDA": {
+      "deaths": 5,
+      "kills": 9,
+      "pentaKills": 0,
+      "largestMultiKill": 1,
+      "quadraKills": 0,
+      "assists": 22
+    },
+    "First": {
+      "firstBloodKill": true,
+      "firstBloodAssist": false,
+      "firstTowerKill": false,
+      "firstTowerAssist": false
+    },
+    "Stat game": {
+      "goldEarned": 15651,
+      "itemsPurchased": 20,
+      "totalAllyJungleMinionsKilled": 120,
+      "totalEnemyJungleMinionsKilled": 13,
+      "totalTimeSpentDead": 198,
+      "turretTakedowns": 2,
+      "wardsPlaced": 1,
+      "wardsKilled": 12,
+      "visionWardsBoughtInGame": 0,
+      "visionScore": 43
+    },
+    "Spell": {
+      "spell1Casts": 137,
+      "spell2Casts": 101,
+      "spell3Casts": 365,
+      "spell4Casts": 10,
+      "summoner1Casts": 19,
+      "summoner1Id": 11,
+      "summoner2Casts": 5,
+      "summoner2Id": 4
+    }
+  },
+  "Senjogahara": {
+    "teamPosition": "MIDDLE",
+    "Champion": {
+      "champExperience": 21206,
+      "champLevel": 18,
+      "championName": "Lux"
+    },
+    "Damage": {
+      "damageDealtToBuildings": 9391,
+      "damageDealtToEpicMonsters": 1836,
+      "magicDamageDealtToChampions": 44806,
+      "magicDamageTaken": 3392,
+      "physicalDamageDealtToChampions": 1320,
+      "physicalDamageTaken": 13672,
+      "totalDamageDealtToChampions": 47698,
+      "totalDamageTaken": 18345,
+      "trueDamageDealtToChampions": 1571
+    },
+    "Ping": {
+      "dangerPings": 0,
+      "enemyMissingPings": 8,
+      "enemyVisionPings": 11,
+      "getBackPings": 0,
+      "holdPings": 0,
+      "needVisionPings": 1,
+      "onMyWayPings": 0,
+      "pushPings": 0,
+      "retreatPings": 5,
+      "visionClearedPings": 0,
+      "allInPings": 0,
+      "assistMePings": 0,
+      "basicPings": 0
+    },
+    "KDA": {
+      "deaths": 2,
+      "kills": 19,
+      "pentaKills": 0,
+      "largestMultiKill": 2,
+      "quadraKills": 0,
+      "assists": 13
+    },
+    "First": {
+      "firstBloodKill": false,
+      "firstBloodAssist": false,
+      "firstTowerKill": false,
+      "firstTowerAssist": false
+    },
+    "Stat game": {
+      "goldEarned": 18597,
+      "itemsPurchased": 19,
+      "totalAllyJungleMinionsKilled": 0,
+      "totalEnemyJungleMinionsKilled": 0,
+      "totalTimeSpentDead": 92,
+      "turretTakedowns": 4,
+      "wardsPlaced": 12,
+      "wardsKilled": 2,
+      "visionWardsBoughtInGame": 0,
+      "visionScore": 15
+    },
+    "Spell": {
+      "spell1Casts": 79,
+      "spell2Casts": 22,
+      "spell3Casts": 250,
+      "spell4Casts": 32,
+      "summoner1Casts": 2,
+      "summoner1Id": 12,
+      "summoner2Casts": 4,
+      "summoner2Id": 4
+    }
+  },
+  "Ayase Eli": {
+    "teamPosition": "BOTTOM",
+    "Champion": {
+      "champExperience": 15004,
+      "champLevel": 16,
+      "championName": "Jinx"
+    },
+    "Damage": {
+      "damageDealtToBuildings": 12749,
+      "damageDealtToEpicMonsters": 10687,
+      "magicDamageDealtToChampions": 860,
+      "magicDamageTaken": 5862,
+      "physicalDamageDealtToChampions": 30083,
+      "physicalDamageTaken": 17029,
+      "totalDamageDealtToChampions": 31250,
+      "totalDamageTaken": 23301,
+      "trueDamageDealtToChampions": 306
+    },
+    "Ping": {
+      "dangerPings": 0,
+      "enemyMissingPings": 0,
+      "enemyVisionPings": 1,
+      "getBackPings": 0,
+      "holdPings": 0,
+      "needVisionPings": 0,
+      "onMyWayPings": 0,
+      "pushPings": 0,
+      "retreatPings": 0,
+      "visionClearedPings": 0,
+      "allInPings": 0,
+      "assistMePings": 0,
+      "basicPings": 0
+    },
+    "KDA": {
+      "deaths": 7,
+      "kills": 12,
+      "pentaKills": 0,
+      "largestMultiKill": 3,
+      "quadraKills": 0,
+      "assists": 11
+    },
+    "First": {
+      "firstBloodKill": false,
+      "firstBloodAssist": false,
+      "firstTowerKill": false,
+      "firstTowerAssist": false
+    },
+    "Stat game": {
+      "goldEarned": 17460,
+      "itemsPurchased": 19,
+      "totalAllyJungleMinionsKilled": 19,
+      "totalEnemyJungleMinionsKilled": 4,
+      "totalTimeSpentDead": 170,
+      "turretTakedowns": 3,
+      "wardsPlaced": 15,
+      "wardsKilled": 2,
+      "visionWardsBoughtInGame": 0,
+      "visionScore": 27
+    },
+    "Spell": {
+      "spell1Casts": 144,
+      "spell2Casts": 71,
+      "spell3Casts": 12,
+      "spell4Casts": 8,
+      "summoner1Casts": 3,
+      "summoner1Id": 21,
+      "summoner2Casts": 4,
+      "summoner2Id": 4
+    }
+  },
+  "Takayama Haruka": {
+    "teamPosition": "UTILITY",
+    "Champion": {
+      "champExperience": 12431,
+      "champLevel": 14,
+      "championName": "Leona"
+    },
+    "Damage": {
+      "damageDealtToBuildings": 1334,
+      "damageDealtToEpicMonsters": 2067,
+      "magicDamageDealtToChampions": 9150,
+      "magicDamageTaken": 3971,
+      "physicalDamageDealtToChampions": 3436,
+      "physicalDamageTaken": 27743,
+      "totalDamageDealtToChampions": 12586,
+      "totalDamageTaken": 33066,
+      "trueDamageDealtToChampions": 0
+    },
+    "Ping": {
+      "dangerPings": 0,
+      "enemyMissingPings": 0,
+      "enemyVisionPings": 0,
+      "getBackPings": 0,
+      "holdPings": 0,
+      "needVisionPings": 0,
+      "onMyWayPings": 1,
+      "pushPings": 0,
+      "retreatPings": 0,
+      "visionClearedPings": 0,
+      "allInPings": 0,
+      "assistMePings": 0,
+      "basicPings": 0
+    },
+    "KDA": {
+      "deaths": 8,
+      "kills": 0,
+      "pentaKills": 0,
+      "largestMultiKill": 0,
+      "quadraKills": 0,
+      "assists": 19
+    },
+    "First": {
+      "firstBloodKill": false,
+      "firstBloodAssist": true,
+      "firstTowerKill": false,
+      "firstTowerAssist": false
+    },
+    "Stat game": {
+      "goldEarned": 9125,
+      "itemsPurchased": 26,
+      "totalAllyJungleMinionsKilled": 0,
+      "totalEnemyJungleMinionsKilled": 0,
+      "totalTimeSpentDead": 157,
+      "turretTakedowns": 3,
+      "wardsPlaced": 34,
+      "wardsKilled": 12,
+      "visionWardsBoughtInGame": 3,
+      "visionScore": 99
+    },
+    "Spell": {
+      "spell1Casts": 53,
+      "spell2Casts": 51,
+      "spell3Casts": 36,
+      "spell4Casts": 14,
+      "summoner1Casts": 6,
+      "summoner1Id": 4,
+      "summoner2Casts": 8,
+      "summoner2Id": 3
+    }
+  }
+}
