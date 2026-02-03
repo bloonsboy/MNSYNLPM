@@ -1,0 +1,767 @@
+{
+  "game": {
+    "gameDuration": 1814,
+    "gameCreation": 1769543171443,
+    "gameStartTimestamp": 1769543188380,
+    "gameEndTimestamp": 1769545002532,
+    "gameMode": "CLASSIC"
+  },
+  "virgule": {
+    "win": true,
+    "kills": 32,
+    "tower": 9,
+    "inhibitor": 2,
+    "dragon": 3,
+    "horde": 3,
+    "riftHerald": 0,
+    "baron": 1,
+    "picks": [
+      "Sett",
+      "Volibear",
+      "Viktor",
+      "Aphelios",
+      "Milio"
+    ],
+    "bans": [
+      {
+        "championId": 84,
+        "championName": "Akali"
+      },
+      {
+        "championId": 134,
+        "championName": "Syndra"
+      },
+      {
+        "championId": 131,
+        "championName": "Diana"
+      },
+      {
+        "championId": 98,
+        "championName": "Shen"
+      },
+      {
+        "championId": 238,
+        "championName": "Zed"
+      }
+    ]
+  },
+  "enemy": {
+    "win": false,
+    "kills": 13,
+    "tower": 2,
+    "inhibitor": 0,
+    "dragon": 2,
+    "horde": 0,
+    "riftHerald": 0,
+    "baron": 0,
+    "picks": [
+      "Olaf",
+      "DrMundo",
+      "Orianna",
+      "Caitlyn",
+      "Karma"
+    ],
+    "bans": [
+      {
+        "championId": 421,
+        "championName": "RekSai"
+      },
+      {
+        "championId": 799,
+        "championName": "Ambessa"
+      },
+      {
+        "championId": -1,
+        "championName": "-1"
+      },
+      {
+        "championId": 60,
+        "championName": "Elise"
+      },
+      {
+        "championId": 711,
+        "championName": "Vex"
+      }
+    ]
+  },
+  "semermus": {
+    "Position": "TOP",
+    "Champion": {
+      "championName": "Olaf",
+      "championExp": 14134,
+      "championLevel": 15,
+      "gold": 10040,
+      "creeps": 205,
+      "turretTakedowns": 1,
+      "itemsPurchased": 22,
+      "totalTimeSpentDead": 375,
+      "wardsPlaced": 9,
+      "wardsKilled": 1,
+      "visionWardsPlaced": 0,
+      "visionScore": 27
+    },
+    "Damage": {
+      "totalDamageDealt": 23938,
+      "physicalDamageDealt": 17355,
+      "magicDamageDealt": 0,
+      "trueDamageDealt": 6582,
+      "totalDamageTaken": 42784,
+      "physicalDamageTaken": 27925,
+      "magicDamageTaken": 9825,
+      "trueDamageTaken": 5033,
+      "damageDealtToBuildings": 4520,
+      "damageDealtToEpicMonsters": 0
+    },
+    "Ping": {
+      "onMyWay": 0,
+      "danger": 0,
+      "getBack": 0,
+      "enemyMissing": 0,
+      "assistMe": 0,
+      "retreat": 0,
+      "enemyVision": 0,
+      "hold": 0,
+      "needVision": 0,
+      "push": 0,
+      "visionCleared": 0,
+      "allIn": 0,
+      "basic": 0
+    },
+    "KDA": {
+      "kills": 2,
+      "deaths": 12,
+      "assists": 3,
+      "doubleKills": 0,
+      "tripleKills": 0,
+      "pentaKills": 0,
+      "quadraKills": 0,
+      "largestMultiKill": 1
+    },
+    "First": {
+      "firstBlood": false,
+      "firstTower": false
+    },
+    "Spell": {
+      "Q_spell": 88,
+      "W_spell": 35,
+      "E_spell": 52,
+      "R_spell": 11,
+      "summoner1Casts": 5,
+      "summoner1Id": 4,
+      "summoner2Casts": 6,
+      "summoner2Id": 6
+    }
+  },
+  "FKR1": {
+    "Position": "JUNGLE",
+    "Champion": {
+      "championName": "DrMundo",
+      "championExp": 13634,
+      "championLevel": 15,
+      "gold": 11480,
+      "creeps": 202,
+      "turretTakedowns": 0,
+      "itemsPurchased": 18,
+      "totalTimeSpentDead": 152,
+      "wardsPlaced": 1,
+      "wardsKilled": 9,
+      "visionWardsPlaced": 0,
+      "visionScore": 29
+    },
+    "Damage": {
+      "totalDamageDealt": 22046,
+      "physicalDamageDealt": 8071,
+      "magicDamageDealt": 13439,
+      "trueDamageDealt": 535,
+      "totalDamageTaken": 58114,
+      "physicalDamageTaken": 35780,
+      "magicDamageTaken": 18221,
+      "trueDamageTaken": 4112,
+      "damageDealtToBuildings": 0,
+      "damageDealtToEpicMonsters": 15918
+    },
+    "Ping": {
+      "onMyWay": 40,
+      "danger": 0,
+      "getBack": 2,
+      "enemyMissing": 0,
+      "assistMe": 0,
+      "retreat": 0,
+      "enemyVision": 0,
+      "hold": 0,
+      "needVision": 0,
+      "push": 0,
+      "visionCleared": 0,
+      "allIn": 0,
+      "basic": 0
+    },
+    "KDA": {
+      "kills": 5,
+      "deaths": 6,
+      "assists": 3,
+      "doubleKills": 0,
+      "tripleKills": 0,
+      "pentaKills": 0,
+      "quadraKills": 0,
+      "largestMultiKill": 1
+    },
+    "First": {
+      "firstBlood": false,
+      "firstTower": false
+    },
+    "Spell": {
+      "Q_spell": 220,
+      "W_spell": 43,
+      "E_spell": 108,
+      "R_spell": 8,
+      "summoner1Casts": 16,
+      "summoner1Id": 11,
+      "summoner2Casts": 4,
+      "summoner2Id": 4
+    }
+  },
+  "ResisTense": {
+    "Position": "MIDDLE",
+    "Champion": {
+      "championName": "Orianna",
+      "championExp": 14736,
+      "championLevel": 16,
+      "gold": 10160,
+      "creeps": 236,
+      "turretTakedowns": 0,
+      "itemsPurchased": 26,
+      "totalTimeSpentDead": 129,
+      "wardsPlaced": 10,
+      "wardsKilled": 0,
+      "visionWardsPlaced": 4,
+      "visionScore": 21
+    },
+    "Damage": {
+      "totalDamageDealt": 12975,
+      "physicalDamageDealt": 591,
+      "magicDamageDealt": 12384,
+      "trueDamageDealt": 0,
+      "totalDamageTaken": 16673,
+      "physicalDamageTaken": 9235,
+      "magicDamageTaken": 7184,
+      "trueDamageTaken": 253,
+      "damageDealtToBuildings": 2719,
+      "damageDealtToEpicMonsters": 634
+    },
+    "Ping": {
+      "onMyWay": 9,
+      "danger": 0,
+      "getBack": 0,
+      "enemyMissing": 7,
+      "assistMe": 2,
+      "retreat": 0,
+      "enemyVision": 7,
+      "hold": 0,
+      "needVision": 0,
+      "push": 0,
+      "visionCleared": 0,
+      "allIn": 0,
+      "basic": 0
+    },
+    "KDA": {
+      "kills": 2,
+      "deaths": 4,
+      "assists": 4,
+      "doubleKills": 0,
+      "tripleKills": 0,
+      "pentaKills": 0,
+      "quadraKills": 0,
+      "largestMultiKill": 1
+    },
+    "First": {
+      "firstBlood": false,
+      "firstTower": false
+    },
+    "Spell": {
+      "Q_spell": 114,
+      "W_spell": 103,
+      "E_spell": 41,
+      "R_spell": 7,
+      "summoner1Casts": 4,
+      "summoner1Id": 12,
+      "summoner2Casts": 4,
+      "summoner2Id": 4
+    }
+  },
+  "DenzL": {
+    "Position": "BOTTOM",
+    "Champion": {
+      "championName": "Caitlyn",
+      "championExp": 12885,
+      "championLevel": 14,
+      "gold": 14454,
+      "creeps": 297,
+      "turretTakedowns": 1,
+      "itemsPurchased": 27,
+      "totalTimeSpentDead": 104,
+      "wardsPlaced": 9,
+      "wardsKilled": 3,
+      "visionWardsPlaced": 3,
+      "visionScore": 28
+    },
+    "Damage": {
+      "totalDamageDealt": 26105,
+      "physicalDamageDealt": 24394,
+      "magicDamageDealt": 1526,
+      "trueDamageDealt": 184,
+      "totalDamageTaken": 21657,
+      "physicalDamageTaken": 14006,
+      "magicDamageTaken": 7427,
+      "trueDamageTaken": 223,
+      "damageDealtToBuildings": 5845,
+      "damageDealtToEpicMonsters": 0
+    },
+    "Ping": {
+      "onMyWay": 10,
+      "danger": 0,
+      "getBack": 1,
+      "enemyMissing": 1,
+      "assistMe": 1,
+      "retreat": 0,
+      "enemyVision": 0,
+      "hold": 0,
+      "needVision": 0,
+      "push": 0,
+      "visionCleared": 0,
+      "allIn": 1,
+      "basic": 0
+    },
+    "KDA": {
+      "kills": 3,
+      "deaths": 4,
+      "assists": 4,
+      "doubleKills": 0,
+      "tripleKills": 0,
+      "pentaKills": 0,
+      "quadraKills": 0,
+      "largestMultiKill": 1
+    },
+    "First": {
+      "firstBlood": false,
+      "firstTower": true
+    },
+    "Spell": {
+      "Q_spell": 70,
+      "W_spell": 57,
+      "E_spell": 14,
+      "R_spell": 3,
+      "summoner1Casts": 3,
+      "summoner1Id": 21,
+      "summoner2Casts": 3,
+      "summoner2Id": 4
+    }
+  },
+  "shnqc": {
+    "Position": "SUPPORT",
+    "Champion": {
+      "championName": "Karma",
+      "championExp": 10170,
+      "championLevel": 13,
+      "gold": 7969,
+      "creeps": 34,
+      "turretTakedowns": 0,
+      "itemsPurchased": 19,
+      "totalTimeSpentDead": 118,
+      "wardsPlaced": 38,
+      "wardsKilled": 16,
+      "visionWardsPlaced": 3,
+      "visionScore": 106
+    },
+    "Damage": {
+      "totalDamageDealt": 22606,
+      "physicalDamageDealt": 389,
+      "magicDamageDealt": 22217,
+      "trueDamageDealt": 0,
+      "totalDamageTaken": 21212,
+      "physicalDamageTaken": 16589,
+      "magicDamageTaken": 4138,
+      "trueDamageTaken": 483,
+      "damageDealtToBuildings": 456,
+      "damageDealtToEpicMonsters": 0
+    },
+    "Ping": {
+      "onMyWay": 10,
+      "danger": 0,
+      "getBack": 5,
+      "enemyMissing": 12,
+      "assistMe": 0,
+      "retreat": 4,
+      "enemyVision": 25,
+      "hold": 0,
+      "needVision": 0,
+      "push": 2,
+      "visionCleared": 0,
+      "allIn": 1,
+      "basic": 0
+    },
+    "KDA": {
+      "kills": 1,
+      "deaths": 6,
+      "assists": 8,
+      "doubleKills": 0,
+      "tripleKills": 0,
+      "pentaKills": 0,
+      "quadraKills": 0,
+      "largestMultiKill": 1
+    },
+    "First": {
+      "firstBlood": false,
+      "firstTower": false
+    },
+    "Spell": {
+      "Q_spell": 103,
+      "W_spell": 24,
+      "E_spell": 139,
+      "R_spell": 50,
+      "summoner1Casts": 6,
+      "summoner1Id": 7,
+      "summoner2Casts": 4,
+      "summoner2Id": 4
+    }
+  },
+  "matise": {
+    "Position": "TOP",
+    "Champion": {
+      "championName": "Sett",
+      "championExp": 18296,
+      "championLevel": 17,
+      "gold": 14372,
+      "creeps": 201,
+      "turretTakedowns": 5,
+      "itemsPurchased": 25,
+      "totalTimeSpentDead": 100,
+      "wardsPlaced": 8,
+      "wardsKilled": 1,
+      "visionWardsPlaced": 0,
+      "visionScore": 17
+    },
+    "Damage": {
+      "totalDamageDealt": 38902,
+      "physicalDamageDealt": 29005,
+      "magicDamageDealt": 430,
+      "trueDamageDealt": 9465,
+      "totalDamageTaken": 47185,
+      "physicalDamageTaken": 29694,
+      "magicDamageTaken": 13355,
+      "trueDamageTaken": 4135,
+      "damageDealtToBuildings": 17451,
+      "damageDealtToEpicMonsters": 16718
+    },
+    "Ping": {
+      "onMyWay": 4,
+      "danger": 0,
+      "getBack": 1,
+      "enemyMissing": 0,
+      "assistMe": 2,
+      "retreat": 0,
+      "enemyVision": 0,
+      "hold": 0,
+      "needVision": 0,
+      "push": 0,
+      "visionCleared": 0,
+      "allIn": 0,
+      "basic": 0
+    },
+    "KDA": {
+      "kills": 13,
+      "deaths": 3,
+      "assists": 3,
+      "doubleKills": 2,
+      "tripleKills": 0,
+      "pentaKills": 0,
+      "quadraKills": 0,
+      "largestMultiKill": 2
+    },
+    "First": {
+      "firstBlood": true,
+      "firstTower": false
+    },
+    "Spell": {
+      "Q_spell": 71,
+      "W_spell": 21,
+      "E_spell": 40,
+      "R_spell": 8,
+      "summoner1Casts": 6,
+      "summoner1Id": 4,
+      "summoner2Casts": 4,
+      "summoner2Id": 12
+    }
+  },
+  "Fear of women": {
+    "Position": "JUNGLE",
+    "Champion": {
+      "championName": "Volibear",
+      "championExp": 14723,
+      "championLevel": 16,
+      "gold": 12498,
+      "creeps": 175,
+      "turretTakedowns": 1,
+      "itemsPurchased": 27,
+      "totalTimeSpentDead": 139,
+      "wardsPlaced": 7,
+      "wardsKilled": 4,
+      "visionWardsPlaced": 6,
+      "visionScore": 35
+    },
+    "Damage": {
+      "totalDamageDealt": 19993,
+      "physicalDamageDealt": 9593,
+      "magicDamageDealt": 10003,
+      "trueDamageDealt": 395,
+      "totalDamageTaken": 34271,
+      "physicalDamageTaken": 22490,
+      "magicDamageTaken": 10710,
+      "trueDamageTaken": 1070,
+      "damageDealtToBuildings": 810,
+      "damageDealtToEpicMonsters": 23320
+    },
+    "Ping": {
+      "onMyWay": 44,
+      "danger": 0,
+      "getBack": 0,
+      "enemyMissing": 2,
+      "assistMe": 2,
+      "retreat": 0,
+      "enemyVision": 9,
+      "hold": 0,
+      "needVision": 0,
+      "push": 0,
+      "visionCleared": 0,
+      "allIn": 0,
+      "basic": 0
+    },
+    "KDA": {
+      "kills": 7,
+      "deaths": 4,
+      "assists": 9,
+      "doubleKills": 1,
+      "tripleKills": 0,
+      "pentaKills": 0,
+      "quadraKills": 0,
+      "largestMultiKill": 2
+    },
+    "First": {
+      "firstBlood": false,
+      "firstTower": false
+    },
+    "Spell": {
+      "Q_spell": 103,
+      "W_spell": 178,
+      "E_spell": 92,
+      "R_spell": 9,
+      "summoner1Casts": 15,
+      "summoner1Id": 11,
+      "summoner2Casts": 3,
+      "summoner2Id": 4
+    }
+  },
+  "Shao Mao": {
+    "Position": "MIDDLE",
+    "Champion": {
+      "championName": "Viktor",
+      "championExp": 17805,
+      "championLevel": 17,
+      "gold": 11787,
+      "creeps": 225,
+      "turretTakedowns": 3,
+      "itemsPurchased": 18,
+      "totalTimeSpentDead": 83,
+      "wardsPlaced": 11,
+      "wardsKilled": 2,
+      "visionWardsPlaced": 0,
+      "visionScore": 20
+    },
+    "Damage": {
+      "totalDamageDealt": 26780,
+      "physicalDamageDealt": 764,
+      "magicDamageDealt": 26015,
+      "trueDamageDealt": 0,
+      "totalDamageTaken": 17322,
+      "physicalDamageTaken": 9338,
+      "magicDamageTaken": 7031,
+      "trueDamageTaken": 952,
+      "damageDealtToBuildings": 8693,
+      "damageDealtToEpicMonsters": 3120
+    },
+    "Ping": {
+      "onMyWay": 4,
+      "danger": 0,
+      "getBack": 0,
+      "enemyMissing": 0,
+      "assistMe": 0,
+      "retreat": 0,
+      "enemyVision": 1,
+      "hold": 0,
+      "needVision": 0,
+      "push": 0,
+      "visionCleared": 0,
+      "allIn": 0,
+      "basic": 0
+    },
+    "KDA": {
+      "kills": 3,
+      "deaths": 3,
+      "assists": 13,
+      "doubleKills": 0,
+      "tripleKills": 0,
+      "pentaKills": 0,
+      "quadraKills": 0,
+      "largestMultiKill": 1
+    },
+    "First": {
+      "firstBlood": false,
+      "firstTower": false
+    },
+    "Spell": {
+      "Q_spell": 62,
+      "W_spell": 17,
+      "E_spell": 102,
+      "R_spell": 24,
+      "summoner1Casts": 2,
+      "summoner1Id": 4,
+      "summoner2Casts": 4,
+      "summoner2Id": 12
+    }
+  },
+  "Ersees": {
+    "Position": "BOTTOM",
+    "Champion": {
+      "championName": "Aphelios",
+      "championExp": 15270,
+      "championLevel": 16,
+      "gold": 16699,
+      "creeps": 259,
+      "turretTakedowns": 4,
+      "itemsPurchased": 20,
+      "totalTimeSpentDead": 49,
+      "wardsPlaced": 4,
+      "wardsKilled": 2,
+      "visionWardsPlaced": 1,
+      "visionScore": 10
+    },
+    "Damage": {
+      "totalDamageDealt": 46956,
+      "physicalDamageDealt": 42736,
+      "magicDamageDealt": 3974,
+      "trueDamageDealt": 245,
+      "totalDamageTaken": 21080,
+      "physicalDamageTaken": 9727,
+      "magicDamageTaken": 10233,
+      "trueDamageTaken": 1119,
+      "damageDealtToBuildings": 6773,
+      "damageDealtToEpicMonsters": 10657
+    },
+    "Ping": {
+      "onMyWay": 9,
+      "danger": 0,
+      "getBack": 0,
+      "enemyMissing": 0,
+      "assistMe": 1,
+      "retreat": 0,
+      "enemyVision": 0,
+      "hold": 0,
+      "needVision": 0,
+      "push": 0,
+      "visionCleared": 0,
+      "allIn": 0,
+      "basic": 0
+    },
+    "KDA": {
+      "kills": 8,
+      "deaths": 1,
+      "assists": 13,
+      "doubleKills": 1,
+      "tripleKills": 0,
+      "pentaKills": 0,
+      "quadraKills": 0,
+      "largestMultiKill": 2
+    },
+    "First": {
+      "firstBlood": false,
+      "firstTower": false
+    },
+    "Spell": {
+      "Q_spell": 68,
+      "W_spell": 207,
+      "E_spell": 0,
+      "R_spell": 7,
+      "summoner1Casts": 0,
+      "summoner1Id": 21,
+      "summoner2Casts": 4,
+      "summoner2Id": 4
+    }
+  },
+  "nathboy": {
+    "Position": "SUPPORT",
+    "Champion": {
+      "championName": "Milio",
+      "championExp": 11726,
+      "championLevel": 14,
+      "gold": 9194,
+      "creeps": 35,
+      "turretTakedowns": 4,
+      "itemsPurchased": 32,
+      "totalTimeSpentDead": 45,
+      "wardsPlaced": 48,
+      "wardsKilled": 17,
+      "visionWardsPlaced": 7,
+      "visionScore": 130
+    },
+    "Damage": {
+      "totalDamageDealt": 6008,
+      "physicalDamageDealt": 986,
+      "magicDamageDealt": 5021,
+      "trueDamageDealt": 0,
+      "totalDamageTaken": 16939,
+      "physicalDamageTaken": 5556,
+      "magicDamageTaken": 11359,
+      "trueDamageTaken": 23,
+      "damageDealtToBuildings": 75,
+      "damageDealtToEpicMonsters": 805
+    },
+    "Ping": {
+      "onMyWay": 4,
+      "danger": 0,
+      "getBack": 0,
+      "enemyMissing": 2,
+      "assistMe": 1,
+      "retreat": 1,
+      "enemyVision": 2,
+      "hold": 0,
+      "needVision": 0,
+      "push": 0,
+      "visionCleared": 0,
+      "allIn": 0,
+      "basic": 0
+    },
+    "KDA": {
+      "kills": 1,
+      "deaths": 2,
+      "assists": 20,
+      "doubleKills": 0,
+      "tripleKills": 0,
+      "pentaKills": 0,
+      "quadraKills": 0,
+      "largestMultiKill": 1
+    },
+    "First": {
+      "firstBlood": false,
+      "firstTower": false
+    },
+    "Spell": {
+      "Q_spell": 56,
+      "W_spell": 37,
+      "E_spell": 85,
+      "R_spell": 7,
+      "summoner1Casts": 6,
+      "summoner1Id": 7,
+      "summoner2Casts": 3,
+      "summoner2Id": 4
+    }
+  }
+}

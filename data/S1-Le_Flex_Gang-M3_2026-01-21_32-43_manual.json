@@ -1,0 +1,225 @@
+{
+    "game": {
+        "gameDuration": 1963,
+        "gameCreation": "2026-01-21T00:00:00Z",
+        "gameMode": "CUSTOM"
+    },
+    "virgule": {
+        "win": false,
+        "kills": 9,
+        "tower": 1,
+        "inhibitor": 0,
+        "dragon": 2,
+        "horde": 0,
+        "riftHerald": 0,
+        "baron": 0,
+        "picks": [
+            "Jax",
+            "Viego",
+            "Ahri",
+            "Ezreal",
+            "Bard"
+        ],
+        "bans": [
+            {
+                "championId": 54,
+                "championName": "Malphite"
+            },
+            {
+                "championId": 51,
+                "championName": "Caitlyn"
+            },
+            {
+                "championId": 154,
+                "championName": "Zac"
+            },
+            {
+                "championId": 67,
+                "championName": "Vayne"
+            },
+            {
+                "championId": 111,
+                "championName": "Nautilus"
+            }
+        ]
+    },
+    "enemy": {
+        "win": true,
+        "kills": 25,
+        "tower": 7,
+        "inhibitor": 2,
+        "dragon": 3,
+        "horde": 0,
+        "riftHerald": 1,
+        "baron": 1,
+        "picks": [
+            "Garen",
+            "Poppy",
+            "Mel",
+            "Kaisa",
+            "Leona"
+        ],
+        "bans": [
+            {
+                "championId": 523,
+                "championName": "Aphelios"
+            },
+            {
+                "championId": 904,
+                "championName": "Zaahen"
+            },
+            {
+                "championId": 245,
+                "championName": "Ekko"
+            },
+            {
+                "championId": 50,
+                "championName": "Swain"
+            },
+            {
+                "championId": 875,
+                "championName": "Sett"
+            }
+        ]
+    },
+    "matise": {
+        "Position": "TOP",
+        "Champion": {
+            "championName": "Jax",
+            "championLevel": 16,
+            "gold": 10030,
+            "creeps": 219
+        },
+        "KDA": {
+            "kills": 1,
+            "deaths": 7,
+            "assists": 1
+        }
+    },
+    "Fear of women": {
+        "Position": "JUNGLE",
+        "Champion": {
+            "championName": "Viego",
+            "championLevel": 15,
+            "gold": 11324,
+            "creeps": 179
+        },
+        "KDA": {
+            "kills": 1,
+            "deaths": 6,
+            "assists": 3
+        }
+    },
+    "Sabri": {
+        "Position": "MIDDLE",
+        "Champion": {
+            "championName": "Ahri",
+            "championLevel": 15,
+            "gold": 9767,
+            "creeps": 256
+        },
+        "KDA": {
+            "kills": 0,
+            "deaths": 4,
+            "assists": 2
+        }
+    },
+    "Ersees": {
+        "Position": "BOTTOM",
+        "Champion": {
+            "championName": "Ezreal",
+            "championLevel": 15,
+            "gold": 13455,
+            "creeps": 285
+        },
+        "KDA": {
+            "kills": 3,
+            "deaths": 4,
+            "assists": 2
+        }
+    },
+    "nathboy": {
+        "Position": "SUPPORT",
+        "Champion": {
+            "championName": "Bard",
+            "championLevel": 13,
+            "gold": 7511,
+            "creeps": 32
+        },
+        "KDA": {
+            "kills": 0,
+            "deaths": 5,
+            "assists": 6
+        }
+    },
+    "KcKitt": {
+        "Position": "TOP",
+        "Champion": {
+            "championName": "Garen",
+            "championLevel": 17,
+            "gold": 14996,
+            "creeps": 279
+        },
+        "KDA": {
+            "kills": 6,
+            "deaths": 0,
+            "assists": 4
+        }
+    },
+    "OteGoat": {
+        "Position": "JUNGLE",
+        "Champion": {
+            "championName": "Poppy",
+            "championLevel": 20,
+            "gold": 17402,
+            "creeps": 276
+        },
+        "KDA": {
+            "kills": 13,
+            "deaths": 1,
+            "assists": 3
+        }
+    },
+    "Nyx": {
+        "Position": "MIDDLE",
+        "Champion": {
+            "championName": "Mel",
+            "championLevel": 16,
+            "gold": 12171,
+            "creeps": 226
+        },
+        "KDA": {
+            "kills": 1,
+            "deaths": 3,
+            "assists": 7
+        }
+    },
+    "Nuwoh": {
+        "Position": "BOTTOM",
+        "Champion": {
+            "championName": "Kaisa",
+            "championLevel": 17,
+            "gold": 12985,
+            "creeps": 262
+        },
+        "KDA": {
+            "kills": 5,
+            "deaths": 2,
+            "assists": 7
+        }
+    },
+    "Eliohu": {
+        "Position": "SUPPORT",
+        "Champion": {
+            "championName": "Leona",
+            "championLevel": 14,
+            "gold": 8557,
+            "creeps": 25
+        },
+        "KDA": {
+            "kills": 0,
+            "deaths": 3,
+            "assists": 9
+        }
+    }
+}

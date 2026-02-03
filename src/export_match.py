@@ -156,24 +156,3 @@ def process_match(match):
     for p in participants:
         out[p["riotIdGameName"]] = extract_player_info(p)
     return out
-
-
-if __name__ == "__main__":
-    for name, match_id in MATCH_IDS.items():
-        match = get_match(match_id)
-        data = process_match(match)
-        timestamp = match["info"].get("gameStartTimestamp", 0) // 1000
-        date_str = (
-            datetime.utcfromtimestamp(timestamp).strftime("%Y-%m-%d_%H-%M-%S")
-            if timestamp
-            else name
-        )
-        safe_name = name.replace(" ", "_")
-        filename = f"{safe_name}_{date_str}_filtered.json"
-        out_file = Path("data") / filename
-        if out_file.exists():
-            print(f"{out_file} existe déjà, passage au suivant.")
-            continue
-        with out_file.open("w", encoding="utf-8") as f:
-            json.dump(data, f, ensure_ascii=False, indent=2)
-        print(f"Match filtré sauvegardé dans {out_file}")
