@@ -193,5 +193,7 @@ MATCH_IDS: dict[str, str] = {
     "S2-Camaraderie-M1": "EUW1_7704599788",
     "S2-Camaraderie-M2": "EUW1_7704706115",
     "S2-Camaraderie-M3": "EUW1_7704842056",
-
+    "S3-HEBI-M1": "EUW1_7716545419",
+    "S3-HEBI-M2": "EUW1_7716667145",
+    "S3-HEBI-M3": "EUW1_7716810248",
 }

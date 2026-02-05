@@ -15,7 +15,8 @@ if not API_KEY:
         "RIOT_API_KEY non défini. export RIOT_API_KEY=... ou ajoutez-le dans .env"
     )
 
-HEADERS = {"X-Riot-Token": API_KEY}
+# Riot API accepte maintenant X-Riot-Token comme header principal
+HEADERS = {"X-Riot-Token": API_KEY, "Accept": "application/json"}
 
 
 def get_puuid_by_riot_id(game_name: str, tag_line: str) -> str:
