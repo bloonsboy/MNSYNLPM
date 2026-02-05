@@ -95,6 +95,7 @@
       "turretTakedowns": 1,
       "itemsPurchased": 21,
       "totalTimeSpentDead": 240,
+      "longestTimeSpentLiving": 684,
       "wardsPlaced": 12,
       "wardsKilled": 1,
       "visionWardsPlaced": 0,
@@ -110,7 +111,11 @@
       "magicDamageTaken": 7713,
       "trueDamageTaken": 2647,
       "damageDealtToBuildings": 1628,
-      "damageDealtToEpicMonsters": 65
+      "damageDealtToEpicMonsters": 65,
+      "largestCriticalStrike": 6,
+      "objectivesStolen": 0,
+      "totalHeal": 4247,
+      "totalHealsOnTeammates": 0
     },
     "Ping": {
       "onMyWay": 0,
@@ -135,7 +140,8 @@
       "tripleKills": 0,
       "pentaKills": 0,
       "quadraKills": 0,
-      "largestMultiKill": 1
+      "largestMultiKill": 1,
+      "largestKillingSpree": 2
     },
     "First": {
       "firstBlood": false,
@@ -163,6 +169,7 @@
       "turretTakedowns": 0,
       "itemsPurchased": 21,
       "totalTimeSpentDead": 173,
+      "longestTimeSpentLiving": 1348,
       "wardsPlaced": 6,
       "wardsKilled": 6,
       "visionWardsPlaced": 3,
@@ -178,7 +185,11 @@
       "magicDamageTaken": 7669,
       "trueDamageTaken": 979,
       "damageDealtToBuildings": 2311,
-      "damageDealtToEpicMonsters": 30530
+      "damageDealtToEpicMonsters": 30530,
+      "largestCriticalStrike": 0,
+      "objectivesStolen": 0,
+      "totalHeal": 17043,
+      "totalHealsOnTeammates": 0
     },
     "Ping": {
       "onMyWay": 17,
@@ -203,7 +214,8 @@
       "tripleKills": 0,
       "pentaKills": 0,
       "quadraKills": 0,
-      "largestMultiKill": 1
+      "largestMultiKill": 1,
+      "largestKillingSpree": 4
     },
     "First": {
       "firstBlood": true,
@@ -231,6 +243,7 @@
       "turretTakedowns": 3,
       "itemsPurchased": 23,
       "totalTimeSpentDead": 243,
+      "longestTimeSpentLiving": 1037,
       "wardsPlaced": 9,
       "wardsKilled": 1,
       "visionWardsPlaced": 2,
@@ -246,7 +259,11 @@
       "magicDamageTaken": 11800,
       "trueDamageTaken": 2021,
       "damageDealtToBuildings": 12236,
-      "damageDealtToEpicMonsters": 0
+      "damageDealtToEpicMonsters": 0,
+      "largestCriticalStrike": 0,
+      "objectivesStolen": 0,
+      "totalHeal": 6829,
+      "totalHealsOnTeammates": 0
     },
     "Ping": {
       "onMyWay": 1,
@@ -271,7 +288,8 @@
       "tripleKills": 0,
       "pentaKills": 0,
       "quadraKills": 0,
-      "largestMultiKill": 2
+      "largestMultiKill": 2,
+      "largestKillingSpree": 3
     },
     "First": {
       "firstBlood": true,
@@ -299,6 +317,7 @@
       "turretTakedowns": 1,
       "itemsPurchased": 19,
       "totalTimeSpentDead": 122,
+      "longestTimeSpentLiving": 1168,
       "wardsPlaced": 9,
       "wardsKilled": 7,
       "visionWardsPlaced": 2,
@@ -314,7 +333,11 @@
       "magicDamageTaken": 3215,
       "trueDamageTaken": 628,
       "damageDealtToBuildings": 4884,
-      "damageDealtToEpicMonsters": 5269
+      "damageDealtToEpicMonsters": 5269,
+      "largestCriticalStrike": 687,
+      "objectivesStolen": 0,
+      "totalHeal": 3039,
+      "totalHealsOnTeammates": 0
     },
     "Ping": {
       "onMyWay": 0,
@@ -339,7 +362,8 @@
       "tripleKills": 0,
       "pentaKills": 0,
       "quadraKills": 0,
-      "largestMultiKill": 1
+      "largestMultiKill": 1,
+      "largestKillingSpree": 2
     },
     "First": {
       "firstBlood": true,
@@ -367,6 +391,7 @@
       "turretTakedowns": 0,
       "itemsPurchased": 28,
       "totalTimeSpentDead": 110,
+      "longestTimeSpentLiving": 1351,
       "wardsPlaced": 40,
       "wardsKilled": 8,
       "visionWardsPlaced": 7,
@@ -382,7 +407,11 @@
       "magicDamageTaken": 4828,
       "trueDamageTaken": 1142,
       "damageDealtToBuildings": 0,
-      "damageDealtToEpicMonsters": 1417
+      "damageDealtToEpicMonsters": 1417,
+      "largestCriticalStrike": 0,
+      "objectivesStolen": 0,
+      "totalHeal": 3349,
+      "totalHealsOnTeammates": 229
     },
     "Ping": {
       "onMyWay": 16,
@@ -407,7 +436,8 @@
       "tripleKills": 0,
       "pentaKills": 0,
       "quadraKills": 0,
-      "largestMultiKill": 1
+      "largestMultiKill": 1,
+      "largestKillingSpree": 0
     },
     "First": {
       "firstBlood": true,
@@ -435,6 +465,7 @@
       "turretTakedowns": 7,
       "itemsPurchased": 25,
       "totalTimeSpentDead": 129,
+      "longestTimeSpentLiving": 673,
       "wardsPlaced": 13,
       "wardsKilled": 0,
       "visionWardsPlaced": 0,
@@ -450,7 +481,11 @@
       "magicDamageTaken": 31428,
       "trueDamageTaken": 411,
       "damageDealtToBuildings": 25874,
-      "damageDealtToEpicMonsters": 4650
+      "damageDealtToEpicMonsters": 4650,
+      "largestCriticalStrike": 0,
+      "objectivesStolen": 0,
+      "totalHeal": 26491,
+      "totalHealsOnTeammates": 0
     },
     "Ping": {
       "onMyWay": 1,
@@ -475,7 +510,8 @@
       "tripleKills": 0,
       "pentaKills": 0,
       "quadraKills": 0,
-      "largestMultiKill": 1
+      "largestMultiKill": 1,
+      "largestKillingSpree": 0
     },
     "First": {
       "firstBlood": false,
@@ -503,6 +539,7 @@
       "turretTakedowns": 3,
       "itemsPurchased": 30,
       "totalTimeSpentDead": 54,
+      "longestTimeSpentLiving": 445,
       "wardsPlaced": 7,
       "wardsKilled": 4,
       "visionWardsPlaced": 3,
@@ -518,7 +555,11 @@
       "magicDamageTaken": 19195,
       "trueDamageTaken": 132,
       "damageDealtToBuildings": 1698,
-      "damageDealtToEpicMonsters": 29159
+      "damageDealtToEpicMonsters": 29159,
+      "largestCriticalStrike": 279,
+      "objectivesStolen": 0,
+      "totalHeal": 17410,
+      "totalHealsOnTeammates": 0
     },
     "Ping": {
       "onMyWay": 42,
@@ -543,7 +584,8 @@
       "tripleKills": 0,
       "pentaKills": 0,
       "quadraKills": 0,
-      "largestMultiKill": 2
+      "largestMultiKill": 2,
+      "largestKillingSpree": 11
     },
     "First": {
       "firstBlood": false,
@@ -571,6 +613,7 @@
       "turretTakedowns": 3,
       "itemsPurchased": 21,
       "totalTimeSpentDead": 129,
+      "longestTimeSpentLiving": 674,
       "wardsPlaced": 11,
       "wardsKilled": 0,
       "visionWardsPlaced": 0,
@@ -586,7 +629,11 @@
       "magicDamageTaken": 9831,
       "trueDamageTaken": 412,
       "damageDealtToBuildings": 2728,
-      "damageDealtToEpicMonsters": 2113
+      "damageDealtToEpicMonsters": 2113,
+      "largestCriticalStrike": 0,
+      "objectivesStolen": 0,
+      "totalHeal": 1124,
+      "totalHealsOnTeammates": 0
     },
     "Ping": {
       "onMyWay": 4,
@@ -611,7 +658,8 @@
       "tripleKills": 0,
       "pentaKills": 0,
       "quadraKills": 0,
-      "largestMultiKill": 1
+      "largestMultiKill": 1,
+      "largestKillingSpree": 3
     },
     "First": {
       "firstBlood": false,
@@ -639,6 +687,7 @@
       "turretTakedowns": 3,
       "itemsPurchased": 21,
       "totalTimeSpentDead": 67,
+      "longestTimeSpentLiving": 721,
       "wardsPlaced": 4,
       "wardsKilled": 8,
       "visionWardsPlaced": 0,
@@ -654,7 +703,11 @@
       "magicDamageTaken": 9370,
       "trueDamageTaken": 174,
       "damageDealtToBuildings": 13584,
-      "damageDealtToEpicMonsters": 22756
+      "damageDealtToEpicMonsters": 22756,
+      "largestCriticalStrike": 907,
+      "objectivesStolen": 0,
+      "totalHeal": 6918,
+      "totalHealsOnTeammates": 0
     },
     "Ping": {
       "onMyWay": 6,
@@ -679,7 +732,8 @@
       "tripleKills": 0,
       "pentaKills": 0,
       "quadraKills": 0,
-      "largestMultiKill": 2
+      "largestMultiKill": 2,
+      "largestKillingSpree": 3
     },
     "First": {
       "firstBlood": false,
@@ -707,6 +761,7 @@
       "turretTakedowns": 6,
       "itemsPurchased": 29,
       "totalTimeSpentDead": 29,
+      "longestTimeSpentLiving": 1161,
       "wardsPlaced": 37,
       "wardsKilled": 14,
       "visionWardsPlaced": 5,
@@ -722,7 +777,11 @@
       "magicDamageTaken": 7188,
       "trueDamageTaken": 37,
       "damageDealtToBuildings": 1267,
-      "damageDealtToEpicMonsters": 4060
+      "damageDealtToEpicMonsters": 4060,
+      "largestCriticalStrike": 0,
+      "objectivesStolen": 0,
+      "totalHeal": 3539,
+      "totalHealsOnTeammates": 842
     },
     "Ping": {
       "onMyWay": 6,
@@ -747,7 +806,8 @@
       "tripleKills": 0,
       "pentaKills": 0,
       "quadraKills": 0,
-      "largestMultiKill": 0
+      "largestMultiKill": 0,
+      "largestKillingSpree": 0
     },
     "First": {
       "firstBlood": false,

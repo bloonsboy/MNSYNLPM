@@ -51,6 +51,7 @@ def extract_player_info(p):
             "turretTakedowns": p.get("turretTakedowns"),
             "itemsPurchased": p.get("itemsPurchased"),
             "totalTimeSpentDead": p.get("totalTimeSpentDead"),
+            "longestTimeSpentLiving": p.get("longestTimeSpentLiving"),
             "wardsPlaced": p.get("wardsPlaced"),
             "wardsKilled": p.get("wardsKilled"),
             "visionWardsPlaced": p.get("visionWardsBoughtInGame"),
@@ -67,6 +68,11 @@ def extract_player_info(p):
             "trueDamageTaken": p.get("trueDamageTaken"),
             "damageDealtToBuildings": p.get("damageDealtToBuildings"),
             "damageDealtToEpicMonsters": p.get("damageDealtToEpicMonsters"),
+            "largestCriticalStrike": p.get("largestCriticalStrike"),
+            "objectivesStolen": (p.get("objectivesStolen", 0) or 0)
+            + (p.get("objectivesStolenAssists", 0) or 0),
+            "totalHeal": p.get("totalHeal"),
+            "totalHealsOnTeammates": p.get("totalHealsOnTeammates"),
         },
         "Ping": {
             "onMyWay": p.get("onMyWayPings"),
@@ -92,14 +98,11 @@ def extract_player_info(p):
             "pentaKills": p.get("pentaKills"),
             "quadraKills": p.get("quadraKills"),
             "largestMultiKill": p.get("largestMultiKill"),
+            "largestKillingSpree": p.get("largestKillingSpree"),
         },
         "First": {
-            "firstBlood": bool(
-                p.get("firstBloodKill") or p.get("firstBloodAssist")
-            ),
-            "firstTower": bool(
-                p.get("firstTowerKill") or p.get("firstTowerAssist")
-            ),
+            "firstBlood": bool(p.get("firstBloodKill") or p.get("firstBloodAssist")),
+            "firstTower": bool(p.get("firstTowerKill") or p.get("firstTowerAssist")),
         },
         "Spell": {
             "Q_spell": p.get("spell1Casts"),
@@ -146,12 +149,8 @@ def process_match(match):
 
     virgule_picks = [p["championName"] for p in virgule_players]
     enemy_picks = [p["championName"] for p in enemy_players]
-    out["virgule"] = extract_team_info(
-        virgule_team, virgule_picks, virgule_bans
-    )
-    out["enemy"] = extract_team_info(
-        enemy_team, enemy_picks, enemy_bans
-    )
+    out["virgule"] = extract_team_info(virgule_team, virgule_picks, virgule_bans)
+    out["enemy"] = extract_team_info(enemy_team, enemy_picks, enemy_bans)
 
     for p in participants:
         out[p["riotIdGameName"]] = extract_player_info(p)
